@@ -1,2 +1,2 @@
 # pixel-pulse
-This is my first project
+Frontend project
